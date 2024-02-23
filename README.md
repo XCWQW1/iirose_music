@@ -1,0 +1,2 @@
+# iirosebot_example_plugin_repository
+iirosebot框架的示例插件
