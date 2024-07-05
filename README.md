@@ -6,7 +6,7 @@
 ## 依赖库
 | 库名     | 版本     |
 |--------|--------|
-| 无 | 无 |
+| iirosebot | 1.7.0>= |
 
 ## 指令
 
@@ -20,4 +20,5 @@
 
 | 文件                 | 版本    |
 |--------------------|-------|
-| [iirose_music.py](data/iirose_music.py) | 0.0.1 |
+| [iirose_music.py](data/0.0.2/iirose_music.py) | 0.0.2 |
+| [iirose_music.py](data/0.0.1/iirose_music.py) | 0.0.1 |
